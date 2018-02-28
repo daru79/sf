@@ -1,33 +1,15 @@
-Symfony Standard Edition
-========================
+Playground for Symfony Standard Edition 3.4.4
+=============================================
 
-**WARNING**: This distribution does not support Symfony 4. See the
-[Installing & Setting up the Symfony Framework][15] page to find a replacement
-that fits you best.
-
-Welcome to the Symfony Standard Edition - a fully-functional Symfony
-application that you can use as the skeleton for your new applications.
-
-For details on how to download and get started with Symfony, see the
-[Installation][1] chapter of the Symfony Documentation.
+Testing *playground* for practicing Symfony's core features and 3rd party libraries.
 
 What's inside?
 --------------
 
-The Symfony Standard Edition is configured with the following defaults:
-
-  * An AppBundle you can use to start coding;
-
-  * Twig as the only configured template engine;
-
-  * Doctrine ORM/DBAL;
-
-  * Swiftmailer;
-
-  * Annotations enabled for everything.
-
-It comes pre-configured with the following bundles:
-
+Each testing feature is in a differend branch located. Branches as given:
+  * **Master** - Initial Sf 3.4.4. files + some additional bundles: (wymienić jakie);
+    * WYMIENIĆ JAKIE + LINKI JAK POD SPODEM :)
+    
   * **FrameworkBundle** - The core Symfony framework bundle
 
   * [**SensioFrameworkExtraBundle**][6] - Adds several enhancements, including
